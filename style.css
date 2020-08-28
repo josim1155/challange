@@ -1,0 +1,98 @@
+body{
+    color: #202124;
+    font-size: 14px;
+    font-family: font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;;
+}
+img{
+    width: 110px;
+    margin: auto;
+}
+/* signin-section */
+.signin-section{
+    margin-top: 0px;
+    margin-bottom: 300px;
+}
+.signin-item{
+    width: 750px;
+    height: 550px;
+    border: 1px solid #DADCE0;
+    margin: 30% auto;
+    border-radius: 5px;
+}
+.signin-text li {
+    list-style: none;
+    padding: 3px;
+}
+.signin-text li h2 {
+    font-size: 25px;
+}
+.signin-text li input {
+    font-size: 14px;
+    height: 20px;
+    padding: 7px 11px;
+    margin: 0px 20px 0px 0px;
+    border: 1px solid #DADCE0;
+    border-radius: 4px;
+}
+.mail-area input{
+    width: 92%;
+    font-size: 14px;
+    border: 1px solid #DADCE0;
+    border-radius: 5px;
+    
+}
+.gmail-area{
+    position: relative;
+}
+.mail-area span {
+    position: absolute;
+    left: 840px;
+    top: 50%;
+}
+.signin-text li button {
+    border: none;
+    background: none;
+    color: #1a73e8;
+    font-size: 15px;
+    cursor: pointer;
+    padding-left: 0;
+}
+.button{}
+.button a {
+    text-decoration: none;
+    color: #1a73e8;
+    padding: 5px 20px;
+    margin: 20px 60px 50px 33px;
+}
+.signin-right img {
+    width: 200px;
+    margin-top: 156px;
+}
+.signin-right p {
+    color: #757575;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+/* Footer-Section */
+.footer-section {
+    margin: -180px 0;
+}
+.footer-left{
+    padding-left: 0;
+}
+.footer-left select{
+    border: none;
+    font-size: 15px;
+}
+.footer-right{}
+.footer-right a {
+    text-decoration: none;
+    color: #757575;
+    font-size: 16px;
+    padding: 8px 10px;
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    left: 127px;
+}
